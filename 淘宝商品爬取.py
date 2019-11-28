@@ -31,7 +31,7 @@ def printGoodsList(ilt):
     
 
 def main():
-    goods="天逸310
+    goods="天逸310"
     depth=2
     start_url="https://s.taobao.com/search?q="+goods
     infoList=[]
